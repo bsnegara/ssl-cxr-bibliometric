@@ -6,7 +6,7 @@
 
 Replication package for the paper:
 
-> Negara, B. S. (2026). *Semi-supervised learning on chest X-rays: a bibliometric map of research gaps.* Manuscript submitted to the IAES International Journal of Artificial Intelligence (IJ-AI).
+> Negara, B. S. (2026). *Semi-supervised learning on chest X-rays: a bibliometric map of research gaps.* Manuscript submitted to Computer Science and Information Systems (ComSIS).
 
 The study maps how the semi-supervised chest X-ray (CXR) literature addresses three conditions of real radiograph collections: multi-label findings, class imbalance, and distribution shift. A validated Scopus query (2017--2026) retrieved 207 records; screening retained 119 documents. Performance, co-citation, co-word, thematic, burst, coupling, and thematic-intersection analyses were combined with full-text extraction of 30 studies, leading to four research gaps (G1--G4) centered on per-class pseudo-labeling under labeled--unlabeled class-prior mismatch.
 
