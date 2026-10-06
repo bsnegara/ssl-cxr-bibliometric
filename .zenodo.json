@@ -1,0 +1,15 @@
+{
+  "title": "Semi-supervised learning on chest X-rays: a bibliometric map of research gaps (replication package)",
+  "upload_type": "dataset",
+  "description": "Replication package: Scopus query, gold set, screening decisions by EID, validation summary, VOSviewer thesauri, Colab notebooks, aggregated results, and extraction coding for a bibliometric study of semi-supervised learning on chest X-rays (119 documents, 2018-2026). Raw Scopus records are not redistributed.",
+  "creators": [
+    {
+      "name": "Negara, Benny Sukma",
+      "affiliation": "Universitas Islam Negeri Sultan Syarif Kasim Riau",
+      "orcid": "0000-0001-8455-0912"
+    }
+  ],
+  "keywords": ["bibliometric analysis", "semi-supervised learning", "chest X-ray", "class imbalance", "multi-label classification", "pseudo-labeling", "science mapping"],
+  "license": "cc-by-4.0",
+  "language": "eng"
+}
