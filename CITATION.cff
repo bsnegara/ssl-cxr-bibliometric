@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it and the associated paper."
+title: "Semi-supervised learning on chest X-rays: a bibliometric map of research gaps (replication package)"
+type: dataset
+authors:
+  - family-names: Negara
+    given-names: Benny Sukma
+    affiliation: "Universitas Islam Negeri Sultan Syarif Kasim Riau"
+    orcid: "https://orcid.org/0000-0001-8455-0912"
+    email: bsnegara@uin-suska.ac.id
+version: 1.0.0
+date-released: 2026-10-06
+doi: 10.5281/zenodo.XXXXXXX
+repository-code: "https://github.com/bsnegara/ssl-cxr-bibliometric"
+license: CC-BY-4.0
+keywords:
+  - bibliometric analysis
+  - semi-supervised learning
+  - chest X-ray
+  - class imbalance
+  - multi-label classification
+  - pseudo-labeling
+  - science mapping
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Negara
+      given-names: Benny Sukma
+      orcid: "https://orcid.org/0000-0001-8455-0912"
+  title: "Semi-supervised learning on chest X-rays: a bibliometric map of research gaps"
+  journal: "IAES International Journal of Artificial Intelligence"
+  year: 2026
+  status: submitted

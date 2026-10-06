@@ -1,0 +1,13 @@
+label	replace by
+pseudo-labelling	pseudo-labeling
+pseudo label	pseudo-labeling
+pseudo-label	pseudo-labeling
+cxr	chest x-ray
+chest radiograph	chest x-ray
+chest x-rays	chest x-ray
+semi supervised learning	semi-supervised learning
+imbalanced data	class imbalance
+data imbalance	class imbalance
+multilabel classification	multi-label classification
+deep learning	
+machine learning	

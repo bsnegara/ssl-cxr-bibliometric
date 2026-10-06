@@ -1,0 +1,13 @@
+key,short_title,doi,retrieved,eligibility
+liu2022acpl,Anti-curriculum pseudo-labeling (ACPL),10.1109/CVPR52688.2022.02004,yes,included
+ihler2024mlfixmatch,Distribution-aware multi-label FixMatch,10.1109/CVPRW63382.2024.00235,yes,included
+yang2025clcpmt,CLCP-MT,10.3390/e27101015,yes,included
+xiao2024spml,Single-positive multi-label CXR,10.1109/TMI.2024.3421644,yes,included
+huang2023csda,Class-specific distribution alignment,10.1016/j.compbiomed.2023.107280,yes,included
+liu2021s2mts2,Self-supervised mean teacher,10.1007/978-3-030-87589-3_44,yes,included
+balaram2022cseal,Semi-supervised evidential active learning,10.1007/978-3-031-16431-6_64,yes,included
+holste2024cxrlt,CXR-LT challenge overview,10.1016/j.media.2024.103224,no,not eligible: no SSL method
+zhou2024growth,Growth threshold for pseudo-labeling,10.1016/j.engappai.2023.107777,no,not eligible: skin lesions only
+qu2024tncb,TNCB,10.1109/JBHI.2024.3362243,no,not eligible: no CXR
+peng2023faxmatch,FaxMatch,10.1002/mp.16312,no,"not eligible: ISIC 2018, COVID-CT"
+peng2023fullmatch,FullMatch,10.1016/j.bspc.2022.104142,no,"not eligible: ISIC 2018, blood cells"

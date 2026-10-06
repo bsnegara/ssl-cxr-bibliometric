@@ -1,0 +1,5 @@
+stage,included,excluded,excluded_E1,excluded_E2,change
+1. Initial title-abstract assessment (n=207),118,89,84,5,21 records flagged as uncertain
+2. Full re-reading of 21 uncertain records,118,89,84,5,4 moved I->E1 and 4 moved E1->I
+3. Blinded validation on a new random sample (n=31),119,88,83,5,1 exclusion overturned after adjudication
+Final corpus,119,88,83,5,

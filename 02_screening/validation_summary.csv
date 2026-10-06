@@ -1,0 +1,4 @@
+round,role,sample_n,seed,pool,kappa,raw_agreement,note
+1,calibration,31,42,207,0.06,,assessed without detailed reading; criteria refined
+2,calibration,31,2026,176 remaining,0.43,,inconsistency on domain adaptation; scope fixed
+3,main,31,2027,132 never seen,0.55,0.774,reported in the paper; 7 disagreements adjudicated; 1 exclusion overturned

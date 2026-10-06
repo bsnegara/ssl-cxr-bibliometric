@@ -1,0 +1,9 @@
+TITLE-ABS-KEY ( ( "semi-supervised" OR "semi supervised" OR "pseudo-label*"
+  OR "pseudo label*" OR "consistency regularization" OR fixmatch OR mixmatch
+  OR "mean teacher" OR "self-training" )
+ AND ( "chest x-ray*" OR "chest xray*" OR "chest radiograph*" OR cxr
+  OR chexpert OR "chestx-ray14" OR "mimic-cxr" OR "thoracic disease*" ) )
+AND PUBYEAR > 2016
+AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "cp" )
+  OR LIMIT-TO ( DOCTYPE , "re" ) )
+AND ( LIMIT-TO ( LANGUAGE , "English" ) )

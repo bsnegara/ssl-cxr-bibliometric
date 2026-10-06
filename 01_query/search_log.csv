@@ -1,0 +1,6 @@
+date,query_code,set,n_results,note
+2026-09-29,Q1.0,S1,207,"115 conference papers, 91 articles, 1 review"
+2026-09-30,Q1.0,gold,12,all 12 gold DOIs indexed
+2026-09-30,Q1.0,S1 AND gold,7,5 missed gold papers judged out of scope
+2026-09-30,Q1.0,S1,207,query locked as final
+2026-10-01,Q1.0,S1 export,207,CSV with references; RIS; BibTeX

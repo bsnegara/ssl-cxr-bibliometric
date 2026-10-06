@@ -1,0 +1,10 @@
+quadrant,leading_terms,n_terms,centrality_rank,density_rank
+Motor,multi-label classification; self-supervised learning; medical image analysis,11,0.233,54.7
+Motor/niche boundary,contrastive learning; pseudo-labeling; pneumonia,6,0.186,59.7
+Basic,medical image segmentation; data augmentation; lungs,5,0.913,47.1
+Basic,COVID-19; computer-aided diagnosis; MixMatch,5,0.281,35.8
+Basic,medical image classification; ensemble learning; self-training,7,0.188,48.5
+Niche,pneumonia detection; FixMatch,2,0,62.5
+Niche,consistency regularization; weakly supervised learning; adversarial data augmentation,4,0,57.3
+Emerging or declining,transfer learning; healthcare,2,0,50.0
+Emerging or declining,co-evolution,1,0,50.0

@@ -1,0 +1,9 @@
+DOI ( "10.1109/cvpr52688.2022.02004" ) OR DOI ( "10.1109/cvprw63382.2024.00235" )
+OR DOI ( "10.3390/e27101015" ) OR DOI ( "10.1109/tmi.2024.3421644" )
+OR DOI ( "10.1016/j.compbiomed.2023.107280" ) OR DOI ( "10.1007/978-3-030-87589-3_44" )
+OR DOI ( "10.1007/978-3-031-16431-6_64" ) OR DOI ( "10.1016/j.media.2024.103224" )
+OR DOI ( "10.1016/j.engappai.2023.107777" ) OR DOI ( "10.1109/jbhi.2024.3362243" )
+OR DOI ( "10.1002/mp.16312" ) OR DOI ( "10.1016/j.bspc.2022.104142" )
+
+Recall test: TITLE-ABS-KEY ( ...query S1... ) AND ( query above )
+Result: 12 indexed, 7 retrieved (raw recall 58%); 7/7 eligible retrieved.

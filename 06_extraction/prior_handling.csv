@@ -1,0 +1,7 @@
+category,operational_definition,cxr_corpus_verified,outside_corpus
+explicit prior estimation,estimates class prevalence in the unlabeled data (e.g. from mean predictions),Ihler 2024,Ye 2026 MBP (single-label)
+prior assumption,uses the labeled (training-set) class distribution for the unlabeled data,Yang 2025; Huang 2023,Xie 2023 CAP; Xiao 2024 D2L
+distribution alignment,aligns predicted or representation distributions,Huang 2023; Ihler 2024,Wang 2020 DRML (features)
+pseudo-label reliability estimation,estimates the correctness of pseudo-labels not prevalence,-,Han 2026 DiCaP
+other mismatch types,out-of-distribution classes; label-correlation prior,-,Liu 2024 ABL; Liu 2024 PCLP
+not addressed,not discussed or not determinable,Liu 2022; Huang 2026; Xiao 2024; Chong 2025; Shen 2026; Wang 2021,-

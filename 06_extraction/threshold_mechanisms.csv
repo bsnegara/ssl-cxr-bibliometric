@@ -1,0 +1,10 @@
+study,doi,setting,decision_mechanism,pos_neg_separate,class_wise,rare_class_evaluation
+Ihler et al. 2024,10.1109/CVPRW63382.2024.00235,SSL multi-label (CheXpert),global q*>t / q*<1-t after distribution alignment (t=0.95),symmetric,no,mean over five findings only
+Xiao et al. 2024,10.1109/TMI.2024.3421644,single-positive multi-label,global p>=tau / p<=1-tau (tau=0.6),symmetric,no,selected pathologies
+Huang et al. 2026,10.1016/j.displa.2025.103183,partial multi-label,global asymmetric set manually,yes,no,per class incl. hernia
+Yang et al. 2025,10.3390/e27101015,SSL multi-label,per class p>eps_c / p<1-eps_c scaled by training-set class counts,symmetric,yes,per class incl. hernia
+Huang et al. 2023,10.1016/j.compbiomed.2023.107280,SSL multi-class,per-class queue threshold,positive only,yes,mean class accuracy
+Shen et al. 2026,10.1007/978-981-95-5634-2_10,SSL multi-class,per class curriculum-based,positive only,yes,balanced accuracy
+Liu et al. 2022,10.1109/CVPR52688.2022.02004,SSL multi-label and multi-class,no threshold: informative sample selection; model-KNN mixing,-,-,per class incl. hernia
+Chong et al. 2025,10.1016/j.neucom.2025.130498,partial multi-label,no threshold: post-hoc per-category calibration,-,yes,per category; label-count analysis
+Wang et al. 2021,10.1007/978-3-030-78191-0_46,detection with image-level labels,no threshold: asymmetric sharpening adapted per image,positive only,no,two fracture types

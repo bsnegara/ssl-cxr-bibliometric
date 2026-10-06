@@ -1,0 +1,6 @@
+lens,definition,scopus_line_or_rule,scopus_before_screening_n207,final_corpus_n119
+L1,multi-label,"TITLE-ABS-KEY ( ""multi-label"" OR multilabel OR ""multi label"" ); corpus text match adds single positive and partial label",28,20
+L2,class imbalance,"TITLE-ABS-KEY ( imbalanc* OR ""long-tail*"" OR ""long tail*"" OR ""rare disease*"" OR ""minority class*"" )",23,15
+L3,L1 AND L2,intersection,6,5
+L4,distribution shift,"TITLE-ABS-KEY ( ""continual learning"" OR lifelong OR ""incremental learning"" OR ""domain shift"" OR ""distribution shift"" OR ""label shift"" OR ""prior shift"" )",10,4
+L5,L2 AND L4,intersection,3,0

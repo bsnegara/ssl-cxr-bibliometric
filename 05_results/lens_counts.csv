@@ -1,0 +1,9 @@
+lens,scopus_before_screening_n207,final_corpus_n119,share_of_corpus
+L1 multi-label,28,20,16.8%
+L2 class imbalance,23,15,12.6%
+L4 distribution shift,10,4,3.4%
+L3 multi-label x imbalance,6,5,4.2%
+L5 imbalance x shift,3,0,0%
+none of L1/L2/L4,,85,71%
+L4 expanded (sensitivity),,11,
+L5 with expanded L4 (sensitivity),,0,

@@ -1,0 +1,10 @@
+analysis,tool,unit,settings
+Performance and Bradford,bibliometrix 5.5.0,documents and sources,LNCS name variants merged; CAGR to 2025
+Co-occurrence (map A),VOSviewer 1.6.21,author keywords,fractional counting; thesaurus_vos.txt; min 2 occurrences; two search concepts removed; largest connected component
+Co-citation (map B),VOSviewer 1.6.21,cited references,fractional counting; thesaurus_cocitation.txt; min 3 citations
+Bibliographic coupling (map C),VOSviewer 1.6.21,documents 2022-2026 (n=85),fractional counting; min 0 citations; largest connected component
+Thematic map,bibliometrix 5.5.0,author keywords,minfreq 3; n 250; n.labels 3; synonyms and removed terms as thesaurus
+Thematic evolution,bibliometrix 5.5.0,author keywords,minFreq 2; cut points 2020 and 2022
+Burst detection (main),R (Kleinberg two-state),author keywords,frequency >= 3; yearly 2018-2026; s = 2; gamma = 1
+Burst detection (sensitivity),R (Kleinberg two-state),author keywords,frequency >= 2; s = 2; gamma = 0.5
+Lens intersections,R (UpSetR),title + abstract + author keywords + Keywords Plus,text matching; see 01_query/lenses.csv
