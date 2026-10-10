@@ -11,15 +11,8 @@ authors:
 version: 1.0.0
 date-released: 2026-10-06
 doi: 10.5281/zenodo.23182233
-url: "https://doi.org/10.5281/zenodo.23182233"
 repository-code: "https://github.com/bsnegara/ssl-cxr-bibliometric"
 license: CC-BY-4.0
-abstract: >-
-  Replication package for a bibliometric study of semi-supervised learning on
-  chest X-rays (Scopus, 2017-2026; 207 records retrieved, 119 retained). It
-  contains the search query, gold set, screening decisions by EID, validation
-  summary, VOSviewer thesauri, Colab notebooks, aggregated results, and
-  extraction coding. Raw Scopus records are not redistributed.
 keywords:
   - bibliometric analysis
   - semi-supervised learning
@@ -35,6 +28,5 @@ preferred-citation:
       given-names: Benny Sukma
       orcid: "https://orcid.org/0000-0001-8455-0912"
   title: "Semi-supervised learning on chest X-rays: a bibliometric map of research gaps"
-  journal: "journal: "Computer Science and Information Systems""
   year: 2026
   status: submitted
